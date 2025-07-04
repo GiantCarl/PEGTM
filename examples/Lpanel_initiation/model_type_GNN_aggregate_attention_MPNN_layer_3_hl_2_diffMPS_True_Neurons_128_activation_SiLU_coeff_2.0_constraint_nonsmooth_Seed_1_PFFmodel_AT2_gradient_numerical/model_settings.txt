@@ -1,0 +1,13 @@
+model_type: GNN
+aggregate_fun: attention
+hidden_layers: 2
+neurons: 128
+seed: 1
+activation: SiLU
+coeff: 2.0
+PFF_model: AT2
+se_split: volumetric
+alpha_constraint: nonsmooth
+gradient_type: numerical
+diffMPS: True
+device: cuda:0
