@@ -89,14 +89,14 @@ If you find our work and/or our code useful, please cite us via:
 }
 
 @article{FENG2025118284,
-title = {The novel physics-enhanced graph neural network for phase-field fracture modelling},
-journal = {Computer Methods in Applied Mechanics and Engineering},
-volume = {446},
-pages = {118284},
-year = {2025},
-issn = {0045-7825},
-doi = {https://doi.org/10.1016/j.cma.2025.118284},
-url = {https://www.sciencedirect.com/science/article/pii/S0045782525005560},
-author = {Bo Feng and Xiao-Ping Zhou}
+    title = {The novel physics-enhanced graph neural network for phase-field fracture modelling},
+    journal = {Computer Methods in Applied Mechanics and Engineering},
+    volume = {446},
+    pages = {118284},
+    year = {2025},
+    issn = {0045-7825},
+    doi = {https://doi.org/10.1016/j.cma.2025.118284},
+    url = {https://www.sciencedirect.com/science/article/pii/S0045782525005560},
+    author = {Bo Feng and Xiao-Ping Zhou}
 }
 ```
