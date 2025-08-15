@@ -14,7 +14,7 @@ If you have any questions, feel free to contact: fengbo19940401@126.com.
 ## Instruction
 -To run any of the benchmark problems, place the related "examples/Main.py" in the root directory. 
 
--Use generate.py to generate a vtk file
+-Use generate_vtk.py to generate the vtk files
 
 ## Explanation and description
 * ./example/Dogbone/cofig.py
